@@ -1,0 +1,18 @@
+-----hello--------
+my name is jyoti
+i am from bhopal
+i learn pyhton
+start from infinity
+--hello world---hello world-my name is jyoti
+i am from bhopal
+i learn pyhton
+start from infinity
+--hello world-my name is jyoti
+i am from bhopal
+i learn pyhton
+start from infinity
+--hello world-my name is jyoti
+i am from bhopal
+i learn pyhton
+start from infinity
+small world
